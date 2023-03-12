@@ -1,2 +1,10 @@
-# hello-world
-My first github repository
+# Hello-World
+*This is my first GitHub Repository*
+
+```
+#include <iostream>
+int main()
+{
+   cout << "Helloworld" << endl;
+}
+```
